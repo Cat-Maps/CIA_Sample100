@@ -1,0 +1,1 @@
+var json_Medical_Services_100_6 = {"type":"FeatureCollection","name":"Medical_Services_100_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
